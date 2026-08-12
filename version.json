@@ -1,5 +1,5 @@
 {
-  "version": "ver2.2.2",
-  "releaseNotes": "Що нового:<br>- Додано об'ємні кнопки<br>- Виправлено відображення струму<br>- Оптимізовано інтерфейс.",
+  "version": "ver3",
+  "releaseNotes": "Що нового:<br>- Нове ядро<br>- Новий алгоритм<br>- Оптимізовано інтерфейс.",
   "downloadUrl": "https://github.com/UaAutoEL/Sich/releases"
 }
